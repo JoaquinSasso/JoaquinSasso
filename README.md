@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaquinSasso, a 21 yo Student
-- 👀 I’m interested in Rocket League
+- 👀 I’m interested in Game Design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on School Projects
 - 📫 How to reach me in instagram: @joasasso

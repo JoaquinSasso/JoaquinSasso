@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joa Sasso  
 
-🎓 **Computer Science student** at *National University of San Juan (Argentina)*  
+🎓 **Computer Science student** at *Universidad Nacional de San Juan (Argentina)*  
 💻 **Android & Software Developer** | Focused on clean, offline-first, and privacy-respecting tools  
 
 Currently building **MiniToolbox**, an offline multi-tool Android app with 40+ utilities, widgets, PRO features, and a custom analytics backend.

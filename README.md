@@ -1,50 +1,46 @@
-# 👋 Hi, I'm Joa Sasso  
+# Hi, I'm Joaquín Sasso
 
-🎓 **Computer Science student** at *Universidad Nacional de San Juan (Argentina)*  
-💻 **Android & Software Developer** | Focused on clean, offline-first, and privacy-respecting tools  
-
-Currently building **MiniToolbox**, an offline multi-tool Android app with 40+ utilities, widgets, PRO features, and a custom analytics backend.
+Android developer and web developer based in San Juan, Argentina.
+I build software and keep it running in production.
 
 ---
 
-### 🚀 What I'm Working On
-- 🧰 **MiniToolbox** — Offline multi-tool app built with Jetpack Compose, DataStore, and in-app billing  
-- ☁️ **Metrics Backend** — Privacy-first analytics system using Firebase Cloud Functions and structured event tracking  
-- 🌐 Preparing my **personal portfolio website** and open-source contributions  
+## 🚀 Projects
+
+**[MiniToolbox](https://play.google.com/store/apps/details?id=com.joasasso.minitoolbox)**
+Android app published on Play Store — 5.0/5 (23 reviews, 100+ downloads).
+Built with Kotlin, Jetpack Compose, MVVM + Clean Architecture, Firebase backend
+and a custom analytics system with React dashboard.
+
+**[FixTrack](https://github.com/JoaquinSasso/fixtrack)**
+SaaS multi-tenant for technical service management.
+Running in production since November 2024 — 1,300+ orders processed, daily use.
+Built with React, JavaScript ES6, Firebase (Firestore, Auth, Functions).
+
+**[MenSso](https://mensso.vercel.app)**
+Collaborative educational platform for engineering students.
+7 tools in production including AI-powered document assistant, algorithm
+simulators and data structure visualizations.
 
 ---
 
-### 🧠 Tech Stack
-**Languages:** Kotlin, Java, Python, C  
-**Mobile:** Jetpack Compose, Android SDK, DataStore, Widgets, Billing Library  
-**Backend:** Firebase, Cloud Functions, REST APIs  
-**Tools:** Git, Gradle, Postman, Android Studio  
-**Other interests:** Clean Architecture, CI/CD, Data Visualization, System Design  
+## 🛠️ Tech Stack
+
+**Mobile:** Kotlin, Jetpack Compose, Android SDK, Firebase Cloud Messaging,
+           Google Play Billing, AdMob, Sensor APIs, Material Design 3
+
+**Web:** React, TypeScript, JavaScript ES6, Tailwind CSS, HTML5, CSS3
+
+**Backend:** Firebase (Firestore, Functions, Auth, Hosting), REST APIs
+
+**Architecture:** MVVM, Clean Architecture, Repository Pattern
+
+**Tools:** Git, Android Studio, Vite
 
 ---
 
-### 🎯 Goals
-- 🌍 Publish my apps globally on the Play Store  
-- 🧩 Develop open-source tools for Android and backend developers  
-- 💼 Join an international software team after graduation  
+## 📬 Connect
 
----
-
-### 🧑‍🎓 About Me
-- 📚 Passionate about combining theory and real-world development  
-- 🤖 Interested in mobile systems, backend design, and control engineering  
-- 🗣️ Constantly improving my English and technical communication skills  
-
----
-
-### 📬 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/joasasso/)  
-- ✉️ **Email:** joasasso@gmail.com  
-- 🧰 [Portfolio Website]*(coming soon)*  
-
----
-
-> “I love turning complex ideas into intuitive, offline-first apps.  
-> Always learning, always building.”
-
----
+- [LinkedIn](https://www.linkedin.com/in/joaquinsasso/)
+- [joasasso@gmail.com](mailto:joasasso@gmail.com)
+- [MiniToolbox on Play Store](https://play.google.com/store/apps/details?id=com.joasasso.minitoolbox)

@@ -41,6 +41,6 @@ simulators and data structure visualizations.
 
 ## 📬 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/joaquinsasso/)
+- [LinkedIn](https://www.linkedin.com/in/joasasso/)
 - [joasasso@gmail.com](mailto:joasasso@gmail.com)
 - [MiniToolbox on Play Store](https://play.google.com/store/apps/details?id=com.joasasso.minitoolbox)
